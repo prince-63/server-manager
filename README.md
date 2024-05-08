@@ -1,4 +1,4 @@
-# Server Manager API
+# Server Manager
 
 This is a basic server manager application API.
 
